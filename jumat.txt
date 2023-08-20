@@ -1,0 +1,26 @@
+Jumat
+
+pentingnya mengisi logbook di platform kampus merdeka mbkm, laporan akhir, id kegiatan, dan pusat bantuan.Etika di tempat magang dan studi independen. 
+
+Jika sebelumnya logika pemrograman dapat membantu Anda untuk menyelesaikan permasalahan (problem solving), algoritma bertugas untuk membuat penyelesaiannya lebih terstruktur. Pentingnya menghindari plagiarsime
+
+algoritma pemrograman merupakan langkah-langkah penyelesaian masalah yang terangkai secara masuk akal, urut, dan sistematis.
+Algoritma merupakan sekumpulan alur instruksi yang berurutan untuk menyelesaikan permasalahan.
+
+https://www.dicoding.com/academies/237/tutorials/20137?from=20132 => flowchart
+
+sabtu
+
+jsdoc 
+bmc perusahaan
+
+Terdapat 7 jenis gerbang logika yang akan kita bahas antara lain:
+
+AND
+OR
+NOT
+NAND
+NOR
+XOR
+XNOR
+
